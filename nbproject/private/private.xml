@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/user/staff/Warehouse.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/controller/database/MySQLConnector.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/entity/myentity/Product.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/controller/servlet/AddProductServlet.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/entity/myentity/OrderProduct.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/controller/database/KManipulator.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/controller/servlet/RegisterServlet.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/entity/myentity/ProductQuantity.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/entity/myentity/Bill.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/entity/myentity/Cart.java</file>
+            <file>file:/D:/Dev/University/NMCNPM/OnlineMarket/src/java/model/user/staff/Admin.java</file>
+        </group>
+    </open-files>
+</project-private>
